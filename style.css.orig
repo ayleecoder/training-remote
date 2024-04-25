@@ -1,0 +1,8 @@
+* { box-sizing: border-box }
+
+body { color: #121212; }
+<<<<<<< HEAD
+p{margin:0;}
+=======
+h1{font-weight: 400;}
+>>>>>>> f86dc3667a9ce1a064e179c248c7752fe9c659af
